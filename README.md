@@ -6,6 +6,6 @@ Please submit any corrections or comments on the content of these notes as an is
 
 Thanks,
 
-Peter W Flint
-Landscape Architect/Design Consult, Ogallala Life
+Peter W Flint 
+Landscape Architect/Design Consult, Ogallala Life 
 KALEIOPE Environmental Design
