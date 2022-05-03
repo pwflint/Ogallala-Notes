@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Ogallala Notes
+
+### ReadMe
 
 You can use the [editor on GitHub](https://github.com/pwflint/Ogallala-Notes/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
