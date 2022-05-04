@@ -1,0 +1,41 @@
+# template w/ placeholders
+h1 {
+	text-align: center;
+	margin: val1 val2;
+}
+p {
+	text-align: right;
+}
+.targetClass1 {
+	/*Margin Properties*/
+	margin: val1 val2
+	margin-right: 10px;
+	margin-left: 10px
+	margin-top: 20px
+	margin-bottom: 30px
+}
+.targetclass2 {
+	/*Canvas Properties*/
+	width= 00px;
+	height= 00px;
+	margin= auto;
+}
+element1 {
+	/*text properties*/
+	font-family: Yantramanav
+	font-size: 48px
+}
+element1:not(:last-of-type){
+	/*color properties*/
+	color: colorName
+	background-color: rgb(0,0,0)
+	background-color: hsl(0,0%,0%)
+	background-color: #FFFFFF
+	background: linear-gradient(gradientDir, color1, color2)
+}
+label {
+	display: block
+}
+div {
+	display: inline
+}
