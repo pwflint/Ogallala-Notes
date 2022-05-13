@@ -1,0 +1,52 @@
+# Floating Wetlands
+## Purpose
+Investigate the potential for floating wetlands to mitigate evaporation losses in dry-land surface water impoundments.
+
+## Overview
+**Floating wetlands** occur in ponds and other bodies of relatively slow-moving water. They can be either marine, aquatic, or brackish. Naturally occurring floating wetlands are composed of plants rooted to the bed of the body of water they occupy, with their vascular material (stems, leaves, flowers) floating on the surface. Or they are plant material growing on buoyant masses of decomposing logs and roots. Floating wetlands should not be confused with undersea forests, whose vascular material remains below the surface. 
+
+**Constructed floating wetlands** (CFWs) are purpose-built islands that support aquatic plant life. Roots filter heavy metals and mineral content while organic matter is consumed by the microbiome within the rhizosphere. Typically these are constructed from plastics in order to achieve adequate buoyancy while requiring little maintenance. 
+![](https://ars.els-cdn.com/content/image/1-s2.0-S1385894716313857-fx1.jpg)
+
+The primary application of CFWs is to treat and filter contaminated water, typically sewage or stormwater. The roots of the selected plant material take up excess nutrients, mitigating the potential for eutrophication, the removal of oxygen from the water, which kills animal life. In addition, CFWs can provide habitat for [aquatic](https://www.sciencedirect.com/science/article/abs/pii/S0045653517307956?via%3Dihub) species or [nesting](https://www.tandfonline.com/doi/abs/10.1080/00063650009461172) birds. 
+
+To date, *there does not appear to be any research into how effectively artificial floating wetlands reduce evaporative loss in surface impoundments.* However, based on existing research, there is precedent to consider CFWs as a useful strategy for providing ecosystem services and to use such installations to test their effectiveness in retaining water volume in catchment basins and impoundments.
+
+## Considerations
+Evaporation is a familiar but counter-intuitive process. It is influenced by air temperature, water temperature, relative humidity, air circulation, and surface area. Addressing one variable without acknowledging another may produce undesirable results. Any design intervention toward evaporative loss should consider all five.
+
+**Air temperature** and **relative humidity** are closely related and are likely the least manageable variables from a design standpoint. [Relative humidity](https://en.wikipedia.org/wiki/Humidity#Relative_humidity) is the amount of moisture in the air compared with the amount it could potentially hold at that temperature. It is important to consider because as water changes from liquid to vapor, it adds to the saturation point defined by the current relative humidity. As more moisture is added to the air, the evaporation rate slows. However, this slow-down is often hindered by **wind** (air circulation), as the moisture-saturated air is pushed away from its source. 
+
+These variables affect **water temperature**. Inputs into an existing impoundment, whether through precipitation or tributary, will establish the baseline temperature, the flow rate will determine how much time air temperature and wind will have raise a given column of water to the evaporation point. The greater the difference between water temperature and air temperature, the slower the rate of evaporation.
+
+The extent to which the variables listed above contribute to evaporation is based on **surface area** of the body of water in question. *Evaporation only occurs at the surface,* therefore the greater amount of exposed surface area, the faster the rate of loss.
+
+Of these variables, *only water temperature and surface area can be directly intervened through design*.
+
+### Site
+Selecting a suitable site should be the first consideration when addressing evaporative loss. Per the variables above, the site should be cool, humid, and sheltered from the prevailing winds. Additionally, a site that affords a low surface-area to volume ratio (narrow and deep) will naturally mitigate evaporation loss. 
+
+Attending to these factors will allow for greater success as it allows design to address one or two 
+
+### Evaporative Loss Interventions
+In general, conventional interventions for evaporation loss occur in the form of synthetic covers, namely in residential pools. Control measures for agricultural impoundments in [working lands](https://link.springer.com/chapter/10.1007/978-94-015-9562-9_18#citeas) are only encouraged as stop-gaps during time periods when crop requirements are highest. Synthetic covers limit the size of a storage facility, as they must cover the entire surface, since suppressing evaporation also increases water temperature, which accelerates evaporation in uncovered portions of the surface.
+
+Other synthetic interventions include [the use of plastic balls](https://www.sciencedirect.com/science/article/abs/pii/S0022169420307 836)
+of varying color and density. It has been demonstrated that lighter color has a higher evaporation suppression rate, and that increasing density decreases suppression efficiency. 
+
+### Floating Wetlands
+Existing research shows that well-designed CFWs successfully [decrease](https://www.sciencedirect.com/science/article/pii/S0301479719302154) pollutant concentrations and improve ecosystem health. It has also predicted that rates of efficiency will increase with current climate change scenarios, provided the selected plant material is adaptive to higher temperatures. 
+
+The [majority](https://link.springer.com/article/10.1007/s11852-021-00826-3/tables/1) of constructed wetlands are made from synthetic plastics, which has potential deleterious effects to wildlife in sensitive ecological settings. An [alternative](https://link.springer.com/article/10.1007/s11852-021-00826-3#citeas) design is to use local endemic materials enveloped in a stainless steel mesh.
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11852-021-00826-3/MediaObjects/11852_2021_826_Fig1_HTML.jpg)
+This approach has been shown perform equally as well as its synthetic counterparts in terms of filtration, and outperform in terms of seasonal durability. Additionally, the use of an organic substrate may encourage establishment of volunteer species, increasing the biodiversity profile of the constructed wetland. However, this type of construction requires more attention in maintenance as the buoyant material decomposes over time.
+
+## Discussion
+Based on current research, there is currently not any evidence that floating wetlands prevent evaporative losses in surface-water impoundments. Other research into related design interventions suggests that surface coverage prevents loss to a certain point, until an optimal flow-rate is achieved. Lack of evidence suggests that the role of floating wetlands in evaporative loss has not been extensively studied, not that it is not feasible. Constructed floating wetlands offer a number of other ecosystem services that may enhance Ogallala project goals while mitigating an undetermined amount of evaporative loss. If holding ponds are of a measurable volume, it may be possible to recruit academic interests willing to study their effect on watershed retention. 
+
+Additionally, it should be noted that evaporation is the primary driver of the hydrologic cycle. Any intervention into evaporative loss should thus be *contextual*, *dynamic*, and *inefficient*. CFWs composed of natural material are an interesting strategy in that they may be a means of mitigating loss while providing ecosystem services in the form of habitat and biodiversity, and social services in the form of maintenance. They may also provide a suitable justification for harvesting invasive species, provided said material is sufficiently buoyant, decay-resistant, and accessible. 
+
+## Conclusion
+While currently unable to meet research goals in terms of establishing a direct relationship between evaporative loss prevention and CFWs, the benefits provided in terms of phytoremediation and aquatic habitat extension warrants their inclusion in the design toolkit moving forward. There is ample evidence that reducing exposed surface area of a body of water reduces evaporation rates, it is not farfetched to transform synthetic strategies into organic ones. 
+
+In the Texas panhandle, the strongest variables to consider with respect to evaporative loss appear to be the dry climate and air circulation alongside lack of precipitation. Site selection is the most important task in addressing water loss from impoundments by identifying naturally-occurring microclimates in which said loss arises. From there, CFWs can be considered a means of intervention through reduction of exposed surface area, and providing shade that helps maintain water temperature. Additional features, such as wind breaks can help reduce the rate of airflow. It intuitively follows that a larger biotic footprint will contribute to cooler air temperature and relative humidity, but there is not enough research at hand to establish a direct connection.
