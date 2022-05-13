@@ -1,39 +1,6 @@
 ## Ogallala Notes
 
-### ReadMe
+### About
+These are notes compiled, edited and distilled for [Ogallala Life](https://www.ogallala.life), a non-profit foundation operating out of Amarillo, TX organized around using blockchain and web3 technologies to create incentives for adopting regenerative practices that can help restore watershed health in the lands surrounding the Ogallala Aquifer.  
 
-You can use the [editor on GitHub](https://github.com/pwflint/Ogallala-Notes/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pwflint/Ogallala-Notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+These are *notes*, not fact-checked publications. They are meant primarily as resource for the stakeholders and organizers of Ogallala Life and are compiled as a result of direct comunications with them. They are made publicly available so that interested parties have a basis for research already done and where they might fit in. In that regard, the pages published here are dynamic documents.
